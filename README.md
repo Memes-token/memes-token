@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Memes-token/memes-token/main/logo.png.png" width="200" alt="MEMES Token Logo" />
+  <img src="https://raw.githubusercontent.com/Memes-token/memes-token/main/logo.png" width="200" alt="MEMES Token Logo" />
 </p>
 
 # MEMES Token
