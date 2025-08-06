@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Memes-token/memes-token/main/logo.png.png" width="200" alt="MEMES Token Logo" />
+  <img src="https://raw.githubusercontent.com/Memes-token/memes-token/main/logo.png" width="200" alt="MEMES Token Logo" />
 </p>
 
 # MEMES Token
@@ -26,7 +26,7 @@ The MEMES token is designed for:
 ## 🔹 Links
 
 - Website: *(coming soon)*
-- Logo: [Click to view](./logo.png.png)
+- Logo: [Click to view](./logo.png)
 - BscScan: *(your BscScan link here)*
 - Telegram: *(optional)*
 - Twitter/X: *(optional)*
