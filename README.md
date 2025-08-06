@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Memes-token/memes-token/main/logo.png.png" width="200" alt="MEMES Token Logo" />
+</p>
+
 # MEMES Token
 
 The official repository for the MEMES token on the BNB Smart Chain.
