@@ -26,7 +26,7 @@ The MEMES token is designed for:
 ## 🔹 Links
 
 - Website: *(coming soon)*
-- Logo: [Click to view](./logo.png)
+- Logo: [Click to view](./logo.png.png)
 - BscScan: *(your BscScan link here)*
 - Telegram: *(optional)*
 - Twitter/X: *(optional)*
